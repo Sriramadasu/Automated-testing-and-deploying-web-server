@@ -27,7 +27,7 @@ Prerequisites:
 
 Creating a docker container that has jenkins installed. For that we need to create the dockerfile.
 
-!(https://media-exp1.licdn.com/dms/image/C5612AQEf-DXSn62SpA/article-inline_image-shrink_1000_1488/0/1594456751945?e=1623283200&v=beta&t=2DGAheyT2irf2dh_Zem86fvQU_xLxOGAIPQRMCkFTts)
+![alt text](https://media-exp1.licdn.com/dms/image/C5612AQEf-DXSn62SpA/article-inline_image-shrink_1000_1488/0/1594456751945?e=1623283200&v=beta&t=2DGAheyT2irf2dh_Zem86fvQU_xLxOGAIPQRMCkFTts)
 Building the dockerfile.
 
 No alt text provided for this image
